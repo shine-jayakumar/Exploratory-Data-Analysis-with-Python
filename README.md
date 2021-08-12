@@ -1,5 +1,5 @@
 ## Exploratory Data Analysis with Python
-[![](https://img.shields.io/github/license/shine-jayakumar/Covid19-Exploratory-Analysis-With-SQL)](https://github.com/shine-jayakumar/Covid19-Exploratory-Analysis-With-SQL/blob/Master/LICENSE "![](https://img.shields.io/github/license/shine-jayakumar/Covid19-Exploratory-Analysis-With-SQL)")
+[![](https://img.shields.io/github/license/shine-jayakumar/Covid19-Exploratory-Analysis-With-SQL)](https://github.com/shine-jayakumar/Exploratory-Data-Analysis-with-Python/blob/main/LICENSE "![](https://img.shields.io/github/license/shine-jayakumar/Covid19-Exploratory-Analysis-With-SQL)")
 
 An exploratory data analysis project to analyse datasets for users corresponding to their activity on an LMS (Learning Management System) Portal.
 
@@ -21,7 +21,7 @@ An exploratory data analysis project to analyse datasets for users corresponding
 - numpy==1.18.5
 - matplotlib==3.2.2
 - pandas==1.0.5
-
+[Download Requirements.txt](https://github.com/shine-jayakumar/Exploratory-Data-Analysis-with-Python/blob/main/requirements.txt "Requirements.txt")
 
 
 

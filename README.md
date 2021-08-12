@@ -27,6 +27,8 @@ Datasets are available with in this repository to be downloaded
 [Download Requirements.txt](https://github.com/shine-jayakumar/Exploratory-Data-Analysis-with-Python/blob/main/requirements.txt "Requirements.txt")
 
 ## Analysis
+[Link to eda_users.ipynb](https://github.com/shine-jayakumar/Exploratory-Data-Analysis-with-Python/blob/main/eda_users.ipynb "Link to eda_users.ipynb")
+
 
 1.	No. of paid and unpaid users
 2.	Days paid users took before signing up

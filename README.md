@@ -23,7 +23,7 @@ Datasets are available with in this repository to be downloaded
 - numpy==1.18.5
 - matplotlib==3.2.2
 - pandas==1.0.5
-- 
+
 [Download Requirements.txt](https://github.com/shine-jayakumar/Exploratory-Data-Analysis-with-Python/blob/main/requirements.txt "Requirements.txt")
 
 ## Analysis
